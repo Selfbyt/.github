@@ -18,7 +18,7 @@
 Welcome to the official repository of Selfbyt, where we strive to personalize learning, advance research on artificial intelligence, and build a virtual human brain and contribute to AI safety.
 
 # About Selfbyt
-Selfbyt is an organization dedicated to revolutionizing the way we learn and pushing the boundaries of artificial intelligence research. Our mission is to create a virtual human brain that can emulate human intelligence and provide personalized learning experiences.
+Selfbyt is an organization dedicated to revolutionizing the way we learn and pushing the boundaries of artificial intelligence research and human computer interaction. Our mission is to create a software and AI models that can emulate human intelligence, providing personalized learning experiences and shaping the way people interact with software and hardware products.
 
 Repository Contents
 This repository contains the following:
@@ -27,24 +27,21 @@ Code: Source code and algorithms related to building the virtual human brain.
 Data: Datasets and training data used for AI research and development.
 Documentation: Detailed documentation, research papers, and guides related to our projects.
 Resources: Additional resources, presentations, and materials.
-Projects
-# Virtual Human Brain
-Our flagship project is the development of a virtual human brain. This ambitious undertaking involves building an AI system that can mimic human intelligence, cognitive processes, and learning abilities. Through this project, we aim to create a platform that enables personalized learning experiences and pushes the boundaries of AI research.
 
-# AI Research
-In addition to the virtual human brain project, we actively engage in cutting-edge AI research. Our team of engineers work on various topics, including natural language processing, computer vision, machine learning, and deep learning. We strive to contribute to the advancements in AI and develop innovative solutions.
+# Research
+We actively engage in cutting-edge AI and Human Computer Interaction research . Our team work on various topics, including natural language processing, computer vision, machine learning, and deep learning. We strive to contribute to the advancements in engineering and develop innovative solutions.
 
 # Getting Started
 To get started with our projects, please refer to the respective project directories and documentation available in this repository. You'll find detailed instructions, guidelines, and examples to help you understand and contribute to our work.
 
 # Contributing
-We welcome contributions from the open-source community to help us in our mission. If you're interested in contributing, please follow the guidelines outlined in our CONTRIBUTING.md file.
+We welcome contributions from the open-source community to help us in our mission. If you're interested in contributing, please follow the guidelines outlined in our [Contribution Guide](CONTRIBUTING.md)
 
 # Contact
 For any inquiries or further information about Selfbyt, please reach out to us:
 
-Email: fmbishu@gmail.com
-# License
-This repository is licensed under the MIT License. Feel free to use, modify, and distribute the code and resources in accordance with the terms of the license.
+Email: selfbytdevelopmentlabs@gmail.com
+# Licenses
+Seelfbyt is involed in open-source project and closed-software. Feel free to use, modify, and distribute the open-source code and resources in accordance with the terms of the respective license.
 
 We appreciate your interest in Selfbyt and look forward to collaborating with you in our journey to personalize learning and advance artificial intelligence research!
