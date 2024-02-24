@@ -15,7 +15,7 @@
 </svg>
 
 
-Welcome to the official repository of Selfbyt, where we strive to personalize learning, advance research on artificial intelligence, and build a virtual human brain and contribute to AI safety.
+Welcome to the official repository of Selfbyt, where we strive to personalize learning, advance research on artificial intelligence, Human Computer Interaction and contribute to AI safety.
 
 # About Selfbyt
 Selfbyt is an organization dedicated to revolutionizing the way we learn and pushing the boundaries of artificial intelligence research and human computer interaction. Our mission is to create a software and AI models that can emulate human intelligence, providing personalized learning experiences and shaping the way people interact with software and hardware products.
@@ -35,7 +35,7 @@ We actively engage in cutting-edge AI and Human Computer Interaction research . 
 To get started with our projects, please refer to the respective project directories and documentation available in this repository. You'll find detailed instructions, guidelines, and examples to help you understand and contribute to our work.
 
 # Contributing
-We welcome contributions from the open-source community to help us in our mission. If you're interested in contributing, please follow the guidelines outlined in our [Contribution Guide](CONTRIBUTING.md)
+We welcome contributions from the open-source community to help us in our mission. If you're interested in contributing, please follow the contribution guidelines of the particular project as in its CONTRIBUTING.md file. 
 
 # Contact
 For any inquiries or further information about Selfbyt, please reach out to us:
